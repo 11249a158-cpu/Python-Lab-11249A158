@@ -1,4 +1,4 @@
-AIM:- To write a python program to find the best of two test average marks out of three test’s marks accepted from the from the user.
+#AIM:- To write a python program to find the best of two test average marks out of three test’s marks accepted from the from the user.
 
 
 ALGORITHM:-
@@ -45,3 +45,4 @@ Average of best two test marks is: 78.5
 
 
 RESULT:- The calculation of test average is successfully carried out using python programming.
+
