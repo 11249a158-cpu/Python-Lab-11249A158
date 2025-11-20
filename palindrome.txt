@@ -1,4 +1,4 @@
-AIM:- To develop a Python program to check whether a given number is palindrome or not and also count the number of occurrences of each digit in the input number.
+#AIM:- To develop a Python program to check whether a given number is palindrome or not and also count the number of occurrences of each digit in the input number.
 
 
 ALGORITHM:-
@@ -55,3 +55,4 @@ Digit 3 occurs 1 time(s)
 
 
 Result:- Hence,it is checked that the given number is a palindrome or not using python programming.
+
