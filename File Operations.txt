@@ -1,4 +1,4 @@
-PROGRAM:-
+#PROGRAM:-
 
 def main():
     # Step 1: Input file name
@@ -45,3 +45,4 @@ The word 'data' occurred 2 times in the file.
 
 
 #RESULT:- Required file operations are performed for a given file using python programming
+
