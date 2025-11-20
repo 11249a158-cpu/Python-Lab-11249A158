@@ -66,4 +66,8 @@ Original list: [34, 8, 64, 51, 32, 21]
 Sorted list (Insertion Sort): [8, 21, 32, 34, 51, 64]
 
 Original list: [34, 8, 64, 51, 32, 21]
+
 Sorted list (Merge Sort): [8, 21, 32, 34, 51, 64]
+
+
+RESULT:- Insertion sort and Merge sort are implemented using lists in python programming
