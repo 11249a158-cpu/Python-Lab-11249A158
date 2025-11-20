@@ -38,4 +38,7 @@ Octal to Hexadecimal: 17 → F
 Enter a binary number: 1021
 Invalid binary number. Please enter a number containing only 0s and 1s.
 Enter an octal number: 198
+
 Invalid octal number. Please enter a number containing digits 0 to 7 only.
+
+RESULT:- Binary to Decimal & Octal to Hexadecimal Conversion is successfully performed using python programming
